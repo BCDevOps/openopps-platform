@@ -5,7 +5,7 @@
   "description": "Innovation platform providing collaboration and crowdsourcing tools",
   "dependencies": {
     "async": "^0.2.9",
-    "autolinker": "^0.15.2",
+    "autolinker": "^3.0.0",
     "aws-sdk": "^2.1.26",
     "backbone": "^1.1.2",
     "bcryptjs": "^2.3.0",
